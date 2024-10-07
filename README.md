@@ -2,6 +2,9 @@
 # Documentación del Proyecto
 ## Unidad 3
 
-Estudiante:  
-Id:  
+Estudiante:  Manuela Buriticá Bedoya
+Id:  000505665
 ---
+### ACTIVIDAD 1
+#### 1. ABSTRACIÓN
+En este primer fundamento comprendí muy bien el ejemplo dado y explicado por el profe. Recordé la creación de clases y entendí muy bien como se implementa en C y el uso de los archivos (.h ) y (.c) . Para la actividad práctica solo se me presentó un problema: no logré imprimir ni el daño ni el alcance, solo el nombre de la arma. Lo solucioné de la sgte manera: 

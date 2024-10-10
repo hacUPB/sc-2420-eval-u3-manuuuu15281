@@ -338,3 +338,19 @@ Y en mi terminal se ve así:
 ![image](https://github.com/user-attachments/assets/e4dd3d8c-6d41-4060-b5ac-6387b397748a)
 
 #### 5.RELACIÓN ENTRE CLASES
+
+
+
+### DISCUSIÓN
+
+**1. ¿Por qué, en este apartado, se afirma que la POO no es un lenguaje de programación? ¿Estás de acuerdo con esta apreciación?**
+   
+Si estoy de acuerdo con esta afirmación. POO no es un lenguaje sino más bien un paradigma de la programación, lo que quiere decir que es forma o estilo de organizar y estructurar un código. Un lenguaje de programación son las herramientas concretas que se usan para escribir un código. Así que la implementación de la POO depende de un lenguaje de progrmamción. 
+
+**2. ¿Cuál va a ser la estrategia que vas a emplear para modificar tu código, incorporando los conceptos de la POO? Describe el paso a paso**
+
+
+
+**4. Deja tus conclusiones luego de esta actividad. ¿Qué aprendiste, qué sabías, pero pudiste profundizar? ¿Cuáles son los temas que aún te generan dudas?**
+De esta actividad recordé todo lo que vi el semestre pasado en POO, si bien lo tenía muy fresco lo pude colocar otra vez en práctica pero esta vez en un lenguaje de progrmación diferente. Mi mayor dificultad ha sido acoplarme al lenguaje y como funciona la sintaxis del lenguaje C, aún no lo logro incorporar totalmente y adicional este semestre estoy trabajando con tres lenguajes más en los cuales tambien debo de implementar POO, en conclusión, me confundo constantemente. 
+Por último quedé unicamente con dudas en el encapsulamiento, espero que en el refactoring del juego lo pueda aclarar mucho más. 

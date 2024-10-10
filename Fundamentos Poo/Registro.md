@@ -105,7 +105,7 @@ int main(void)
 Finalmente en la **terminal** logré que se vieran así: 
 ![image](https://github.com/user-attachments/assets/ddc7b6f9-b306-4f7a-889f-85d2a07d4026)
 
-### 2. ENCAPSULAMIENTO
+#### 2. ENCAPSULAMIENTO
 Para esta parte lo único que modifiqué fue la función **mostrar_info_impl** y quedó de la siguiente manera: 
 ```c
 static void mostrar_info_impl(const Arma* this)
@@ -115,7 +115,7 @@ static void mostrar_info_impl(const Arma* this)
 ```
 para este paso aún tengo muchas dudas, comprendí la teoría pero en la ejemplificación no me quedó tan claro.
 
-### 3.HERENCIA
+#### 3.HERENCIA
 Para herencia me guié con el ejemplo del profesor, entendí muy bien la teoría y la implementación en el código. Lo único que me gustaría entender mejor es como visualizo en la temrminal las herencias (no sé si me haga entender jejej). Los archivos de Mago me quedaron de la sgte manera: 
 
 **Mago.h**
@@ -171,7 +171,7 @@ void Mago_destruir(Mago* this) {
     }
 }
 ```
-### 4. POLIMORFISMO
+#### 4. POLIMORFISMO
 Para los polimorfismos intenté hacer mi actividad práctica y logré que funcionara. Así me quedaron los códigos: 
 
 **Personaje.h**
@@ -337,4 +337,4 @@ int main(void)
 Y en mi terminal se ve así: 
 ![image](https://github.com/user-attachments/assets/e4dd3d8c-6d41-4060-b5ac-6387b397748a)
 
-### 5.RELACIÓN ENTRE CLASES
+#### 5.RELACIÓN ENTRE CLASES

@@ -349,7 +349,12 @@ Si estoy de acuerdo con esta afirmación. POO no es un lenguaje sino más bien u
 
 **2. ¿Cuál va a ser la estrategia que vas a emplear para modificar tu código, incorporando los conceptos de la POO? Describe el paso a paso**
 
-
+- Creación del diagrama de clases
+- Creación de los archivos .c y .h dentro del archivo de visual studio previamente configurado para usar SDL2.
+- Crear las herencias en la clase bolos y bola.
+- Crear la composición del main.c
+- crear las intancias necesarias en el main.c para crear la lógica del juego.
+  
 
 **4. Deja tus conclusiones luego de esta actividad. ¿Qué aprendiste, qué sabías, pero pudiste profundizar? ¿Cuáles son los temas que aún te generan dudas?**
 De esta actividad recordé todo lo que vi el semestre pasado en POO, si bien lo tenía muy fresco lo pude colocar otra vez en práctica pero esta vez en un lenguaje de progrmación diferente. Mi mayor dificultad ha sido acoplarme al lenguaje y como funciona la sintaxis del lenguaje C, aún no lo logro incorporar totalmente y adicional este semestre estoy trabajando con tres lenguajes más en los cuales tambien debo de implementar POO, en conclusión, me confundo constantemente. 

@@ -1,8 +1,11 @@
 # POO aplicado a mi juego: Game Bowling
+
 **PROBLEMAS PRINCIPALES**
 
+- Tenía planeado implementar un power up que estuviese cayendo de la parte superior del juego y que cuando la bola  lo agarrara los bolos aumentaran de tamaño y así fuera más fácil de tumbarlos (el power up duraba 6 seg). Trabajé el último día en este power up pero definitivamente no logré que funcionara mi clase bolos con el nuevo código modificado. Además hacer funcionar el recogible tampocó me funcionó por lo de decidí desistir de este power up por el estrés que me causaba (perdón profe, me rendí).
+-  Para esta edición del juego traté de mantener las funcionalidades que ya tenía de la unidad anterior y adaptarlas a POO. Lo que sucedió fue que ahora mis bolos no detectan la colision con las paredes y no supe muy bien como arreglarlo, además mi bola debía reiniciarse apenas era lanzada y salía de la pantalla pero ahora no lo hace.
 
-
+Al repositorio subí un código funcional pero que carece de ciertas funcionalidades pedidas por el profe.
 
 **DESCRIPCIÓN**
 
@@ -322,3 +325,7 @@ int main(int argc, char* argv[]) {
 En la terminal se ve de la sgte manera: 
 
 ![image](https://github.com/user-attachments/assets/9dbd1b3e-33e7-42c4-b8a1-629c8b8f4bd2)
+
+## CONCLUSIÓN
+
+En esta unidad me sentí más cómoda que en la unidad pasada. SDL2 no ha sido mi forma favorita de hacer juegos al ser muy retadora y ambigua, al mismo tiempo he estado tratando de comprenderla mucho más en esta nueva unidad donde le aplicamos POO, la cual ha sido una forma de programar que he trabajado ya en otras materias y me es muy familiar. No logré un código funcional al 100% pero siento que cumplí el obejtivo de esta unidad al comprender como hacer un refactoring y como se aplica POO a un código hecho con C. 
